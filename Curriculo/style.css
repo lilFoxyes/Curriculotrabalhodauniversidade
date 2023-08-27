@@ -64,8 +64,34 @@ div img {
     gap: 20px;
 }
 
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+
+.cabecalho img{
+    position: absolute;
+    right: 1000px;
+    top: -20px;
+    height: auto;
+    width: 200px;
+
+
+}
+
+.informacoespessoais {
+    position: inherit;
+    justify-content: center;
+}
 /* Começo da fomatação do body */
 
 .cinza {
     background-color: #f0f0f0;
+}
+
+.cor {
+    background-color: #d9d9d9;
 }
